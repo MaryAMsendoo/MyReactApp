@@ -3,11 +3,23 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@ionic/react": "^8.5.7",
+    "@ionic/react-router": "^8.5.7",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+<<<<<<< HEAD
+    "ionicons": "^8.0.13",
+    "lucide-react": "^0.525.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-router-dom": "^7.6.3",
+=======
+    "ionicons": "^8.0.8",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.6.0",
+>>>>>>> 78d83c2d5e2c463d3bf47b5e8f2959ee9078af42
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
